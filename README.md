@@ -14,7 +14,7 @@ A REST API for the SkillBridge state-level skilling programme, built with **Fast
 ### Quick smoke-test
 
 ```bash
-curl -X POST https://skillbridge-api-sh5w.onrender.com/auth/login \
+curl -X POST https://skillbridge-api-sh5w.onrender.com/auth/login \ 
   -H "Content-Type: application/json" \
   -d '{"email":"arjun@inst.sb","password":"Password123!"}'
 ```
