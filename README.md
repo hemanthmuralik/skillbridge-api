@@ -9,7 +9,7 @@ A REST API for the SkillBridge state-level skilling programme, built with **Fast
 | | |
 |---|---|
 | **Base URL** | [https://skillbridge-api-sh5w.onrender.com](https://skillbridge-api-sh5w.onrender.com) |
-| **Interactive docs** | [`https://skillbridge-api.onrender.com/docs`](https://skillbridge-api-sh5w.onrender.com) |
+| **Interactive docs** | https://skillbridge-api-sh5w.onrender.com/docs | 
 
 ### Quick smoke-test
 
